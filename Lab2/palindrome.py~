@@ -1,0 +1,7 @@
+def palindrome():
+	n=raw_input	
+	n=str(n)	
+	for d in n:
+		print d
+
+palindrome()
